@@ -1,4 +1,4 @@
-Configuração de ambiente (application.proprities):
+<h1>Configuração de ambiente (application.proprities):</h1>
 
 <code> ring.jpa.hibernate.ddl-auto=none
 spring.jpa.hibernate.naming.physical-strategy=org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
