@@ -17,12 +17,12 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect </c
 Script MySQL:
 
 CREATE TABLE `CEP` (
-`ID` INT NOT NULL AUTO_INCREMENT,
-`CODIGO_LOJA` VARCHAR(30) NOT NULL,
-`FAIXA_INICIO` BIGINT NOT NULL,
-`FAIXA_FIM` BIGINT NOT NULL,
-PRIMARY KEY(`ID`)
-);
+<p> `ID` INT NOT NULL AUTO_INCREMENT, </p> 
+<p> `CODIGO_LOJA` VARCHAR(30) NOT NULL, </p> 
+<p> `FAIXA_INICIO` BIGINT NOT NULL, </p> 
+<p> `FAIXA_FIM` BIGINT NOT NULL, </p> 
+<p> PRIMARY KEY(`ID`) </p> 
+); <p> 
 
 
 Versão: 
