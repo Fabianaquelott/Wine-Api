@@ -22,7 +22,7 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect </c
 <p> DB_WINE_USERNAME: username of your local database </p>
 <p> DB_WINE_PASSWORD: password of your local database </p>
 
-Script MySQL:
+<h2>Script MySQL:</h2>
 
 CREATE TABLE `CEP` (
 <p> `ID` INT NOT NULL AUTO_INCREMENT, </p> 
