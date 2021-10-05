@@ -20,7 +20,7 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect </c
 <p> DB_WINE_PORT: port of your local access bank </p>
 <p> DB_WINE_DATABASE: wine </p>
 <p> DB_WINE_USERNAME: username of your local database </p>
-<p> DB_WINE_PASSWORD: of your local database </p>
+<p> DB_WINE_PASSWORD: password of your local database </p>
 
 Script MySQL:
 
