@@ -8,11 +8,11 @@ app.datasource.springdatajpademo.password=${DB_WINE_PASSWORD}
 server.servlet.contextPath=/api/
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect </code>
 
-DB_WINE_HOST: localhost (acesso local)
-DB_WINE_PORT: porta do seu banco de acesso local
-DB_WINE_DATABASE: wine
-DB_WINE_USERNAME: username do seu banco local
-DB_WINE_PASSWORD: password do seu banco local
+<p> DB_WINE_HOST: localhost (acesso local) </p>
+<p> DB_WINE_PORT: porta do seu banco de acesso local </p>
+<p> DB_WINE_DATABASE: wine </p>
+<p> DB_WINE_USERNAME: username do seu banco local </p>
+<p> DB_WINE_PASSWORD: password do seu banco local </p>
 
 Script MySQL:
 
