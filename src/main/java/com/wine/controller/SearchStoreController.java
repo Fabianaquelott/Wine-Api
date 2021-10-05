@@ -44,7 +44,7 @@ public class SearchStoreController {
 		}
 	}
 
-	@ApiOperation(value = "POST find store data", notes = "This operation find a list of stores.")
+	@ApiOperation(value = "GET find store data", notes = "This operation find a list of stores.")
 	@GetMapping("/findstore")
 	public ResponseEntity<String> findStoreByCep(@RequestParam("zipCode") Integer zipCode) {
 		try {
